@@ -7,3 +7,19 @@ Hands-on learning how to build AI agents with progressively increasing capabilit
 <div align="center">
     <img src="image.png" alt="Agent diagram" style="max-width:600px; width:65%; height:auto;" />
 </div>
+
+
+<br/>
+<br/>
+
+
+Coding Agents = loops + tools.
+
+I’ll build one step-by-step in ~50 lines of PowerShell—live: prompts, routing, file edits.
+
+No frameworks, no BS.
+
+Join me 👇🏼
+https://www.meetup.com/nycpowershellmeetup/events/310703474
+
+![alt text](image-1.png)
